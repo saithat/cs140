@@ -1,0 +1,34 @@
+find> 2: yeah g plank e 
+3: f um yeah is 
+find> 2: yeah g plank e 
+11: short e g 
+find> 5: plank thomas paula dunn 
+find> 5: plank thomas paula dunn 
+find> find> 5: plank thomas paula dunn 
+find> 5: plank thomas paula dunn 
+find> 3: f um yeah is 
+6: josh d f um 
+find> 1: adam paula is zanden g dunn
+7: is test zanden 
+8: paula zanden zanden 
+9: brad f zanden 
+find> find> 1: adam paula is zanden g dunn
+3: f um yeah is 
+7: is test zanden 
+find> find> 3: f um yeah is 
+6: josh d f um 
+find> 1: adam paula is zanden g dunn
+5: plank thomas paula dunn 
+8: paula zanden zanden 
+find> 3: f um yeah is 
+4: test a adam f 
+6: josh d f um 
+9: brad f zanden 
+find> 1: adam paula is zanden g dunn
+2: yeah g plank e 
+11: short e g 
+find> 
+Run stats ...
+Number of slots used: 20
+Max number of slots:  23
+Number of collisions: 24

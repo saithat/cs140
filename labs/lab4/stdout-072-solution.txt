@@ -1,0 +1,126 @@
+find> 25: b
+33: b
+find> 12: paula
+18: paula
+38: paula
+find> 12: paula
+18: paula
+38: paula
+find> 12: paula
+18: paula
+38: paula
+find> 15: c
+20: c
+find> 13: this
+30: this
+find> 12: paula
+18: paula
+38: paula
+find> 28: brad
+find> 14: short
+find> 13: this
+30: this
+find> 28: brad
+find> 5: a
+find> 37: e
+find> 12: paula
+18: paula
+38: paula
+find> 5: a
+find> 7: adam
+34: adam
+find> 1: f
+find> 7: adam
+34: adam
+find> 10: josh
+find> 24: plank
+find> 15: c
+20: c
+find> 16: zanden
+17: zanden
+find> 25: b
+33: b
+find> 2: um
+8: um
+31: um
+find> 3: is
+4: is
+9: is
+26: is
+find> 16: zanden
+17: zanden
+find> 3: is
+4: is
+9: is
+26: is
+find> 28: brad
+find> 15: c
+20: c
+find> 32: vander
+find> find> 16: zanden
+17: zanden
+find> 3: is
+4: is
+9: is
+26: is
+find> 15: c
+20: c
+find> 21: yeah
+27: yeah
+find> find> 37: e
+find> 6: g
+find> 25: b
+33: b
+find> 21: yeah
+27: yeah
+find> 5: a
+find> 10: josh
+find> 13: this
+30: this
+find> 15: c
+20: c
+find> 5: a
+find> 7: adam
+34: adam
+find> find> 35: thomas
+find> find> 13: this
+30: this
+find> 35: thomas
+find> 25: b
+33: b
+find> 32: vander
+find> 25: b
+33: b
+find> 7: adam
+34: adam
+find> 23: clara
+36: clara
+find> 14: short
+find> 25: b
+33: b
+find> 25: b
+33: b
+find> 28: brad
+find> 25: b
+33: b
+find> 25: b
+33: b
+find> 2: um
+8: um
+31: um
+find> 35: thomas
+find> 7: adam
+34: adam
+find> 5: a
+find> 21: yeah
+27: yeah
+find> 16: zanden
+17: zanden
+find> 16: zanden
+17: zanden
+find> find> find> 37: e
+find> 
+Run stats ...
+Number of slots used: 22
+Max number of slots:  23
+Number of collisions: 14

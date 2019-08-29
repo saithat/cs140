@@ -1,0 +1,45 @@
+find> 15: brad g 
+18: c g 
+find> 1: clara zanden plank dunn brad
+2: brad this d josh josh
+15: brad g 
+find> 8: dunn b um
+11: e um 
+find> 6: paula this dunn is
+7: paula c thomas
+find> 6: paula this dunn is
+7: paula c thomas
+find> 2: brad this d josh josh
+3: e zanden zanden this
+5: f a this d
+6: paula this dunn is
+find> 1: clara zanden plank dunn brad
+4: plank gregor d is
+13: vander plank 
+find> 10: hi a 
+19: adam hi 
+find> find> 7: paula c thomas
+16: thomas gregor 
+find> 10: hi a 
+19: adam hi 
+find> 15: brad g 
+18: c g 
+find> 3: e zanden zanden this
+11: e um 
+find> 8: dunn b um
+find> 9: dunn woo 
+find> 1: clara zanden plank dunn brad
+6: paula this dunn is
+8: dunn b um
+9: dunn woo 
+find> 14: test c 
+find> 8: dunn b um
+11: e um 
+find> 1: clara zanden plank dunn brad
+2: brad this d josh josh
+15: brad g 
+find> 
+Run stats ...
+Number of slots used: 24
+Max number of slots:  48
+Number of collisions: 13

@@ -1,0 +1,217 @@
+find> 5: yeah woo brad vander paula short clara
+6: paula zanden adam clara dunn vander gregor
+16: d d um paula hi
+31: paula b d
+34: clara paula
+find> 10: c hi clara test this zanden plank
+18: adam vander c plank adam
+25: this g gregor plank
+find> 5: yeah woo brad vander paula short clara
+6: paula zanden adam clara dunn vander gregor
+16: d d um paula hi
+31: paula b d
+34: clara paula
+find> 7: g f g short is adam a
+17: dunn a woo yeah e
+20: d vander a clara
+find> 2: woo hi c test um josh yeah clara
+3: short is um short brad yeah brad short
+4: c zanden b zanden c um josh
+9: d this um hi c b short
+16: d d um paula hi
+find> 3: short is um short brad yeah brad short
+7: g f g short is adam a
+19: yeah f yeah is e
+24: vander c is this
+find> 2: woo hi c test um josh yeah clara
+4: c zanden b zanden c um josh
+8: clara b this yeah c short vander
+9: d this um hi c b short
+10: c hi clara test this zanden plank
+12: d c woo g zanden b
+18: adam vander c plank adam
+24: vander c is this
+find> 1: b d e test b woo gregor this
+4: c zanden b zanden c um josh
+8: clara b this yeah c short vander
+9: d this um hi c b short
+12: d c woo g zanden b
+15: b zanden e thomas clara woo
+23: d zanden vander b
+27: zanden adam b
+31: paula b d
+32: g b vander
+33: vander b
+36: b
+find> 3: short is um short brad yeah brad short
+5: yeah woo brad vander paula short clara
+find> 7: g f g short is adam a
+14: zanden g dunn f this this
+19: yeah f yeah is e
+21: test this f test
+26: yeah yeah f zanden
+find> 4: c zanden b zanden c um josh
+6: paula zanden adam clara dunn vander gregor
+10: c hi clara test this zanden plank
+12: d c woo g zanden b
+14: zanden g dunn f this this
+15: b zanden e thomas clara woo
+22: zanden woo vander d
+23: d zanden vander b
+26: yeah yeah f zanden
+27: zanden adam b
+28: zanden yeah test
+find> 6: paula zanden adam clara dunn vander gregor
+7: g f g short is adam a
+18: adam vander c plank adam
+27: zanden adam b
+find> 2: woo hi c test um josh yeah clara
+3: short is um short brad yeah brad short
+4: c zanden b zanden c um josh
+9: d this um hi c b short
+16: d d um paula hi
+find> 10: c hi clara test this zanden plank
+18: adam vander c plank adam
+25: this g gregor plank
+find> 1: b d e test b woo gregor this
+2: woo hi c test um josh yeah clara
+5: yeah woo brad vander paula short clara
+12: d c woo g zanden b
+13: woo d gregor d e thomas
+15: b zanden e thomas clara woo
+17: dunn a woo yeah e
+22: zanden woo vander d
+find> 10: c hi clara test this zanden plank
+18: adam vander c plank adam
+25: this g gregor plank
+find> 1: b d e test b woo gregor this
+9: d this um hi c b short
+12: d c woo g zanden b
+13: woo d gregor d e thomas
+16: d d um paula hi
+20: d vander a clara
+22: zanden woo vander d
+23: d zanden vander b
+31: paula b d
+find> 6: paula zanden adam clara dunn vander gregor
+11: dunn g hi this josh test
+14: zanden g dunn f this this
+17: dunn a woo yeah e
+37: dunn
+find> 10: c hi clara test this zanden plank
+18: adam vander c plank adam
+25: this g gregor plank
+find> 7: g f g short is adam a
+11: dunn g hi this josh test
+12: d c woo g zanden b
+14: zanden g dunn f this this
+25: this g gregor plank
+32: g b vander
+find> 1: b d e test b woo gregor this
+9: d this um hi c b short
+12: d c woo g zanden b
+13: woo d gregor d e thomas
+16: d d um paula hi
+20: d vander a clara
+22: zanden woo vander d
+23: d zanden vander b
+31: paula b d
+find> 1: b d e test b woo gregor this
+13: woo d gregor d e thomas
+15: b zanden e thomas clara woo
+17: dunn a woo yeah e
+19: yeah f yeah is e
+find> 6: paula zanden adam clara dunn vander gregor
+11: dunn g hi this josh test
+14: zanden g dunn f this this
+17: dunn a woo yeah e
+37: dunn
+find> 1: b d e test b woo gregor this
+8: clara b this yeah c short vander
+9: d this um hi c b short
+10: c hi clara test this zanden plank
+11: dunn g hi this josh test
+14: zanden g dunn f this this
+21: test this f test
+24: vander c is this
+25: this g gregor plank
+find> 2: woo hi c test um josh yeah clara
+5: yeah woo brad vander paula short clara
+6: paula zanden adam clara dunn vander gregor
+8: clara b this yeah c short vander
+10: c hi clara test this zanden plank
+15: b zanden e thomas clara woo
+20: d vander a clara
+34: clara paula
+35: clara short
+find> 2: woo hi c test um josh yeah clara
+4: c zanden b zanden c um josh
+8: clara b this yeah c short vander
+9: d this um hi c b short
+10: c hi clara test this zanden plank
+12: d c woo g zanden b
+18: adam vander c plank adam
+24: vander c is this
+find> 7: g f g short is adam a
+11: dunn g hi this josh test
+12: d c woo g zanden b
+14: zanden g dunn f this this
+25: this g gregor plank
+32: g b vander
+find> 13: woo d gregor d e thomas
+15: b zanden e thomas clara woo
+find> 3: short is um short brad yeah brad short
+7: g f g short is adam a
+19: yeah f yeah is e
+24: vander c is this
+find> 1: b d e test b woo gregor this
+4: c zanden b zanden c um josh
+8: clara b this yeah c short vander
+9: d this um hi c b short
+12: d c woo g zanden b
+15: b zanden e thomas clara woo
+23: d zanden vander b
+27: zanden adam b
+31: paula b d
+32: g b vander
+33: vander b
+36: b
+find> 2: woo hi c test um josh yeah clara
+4: c zanden b zanden c um josh
+11: dunn g hi this josh test
+30: hi josh yeah
+38: josh
+find> 5: yeah woo brad vander paula short clara
+6: paula zanden adam clara dunn vander gregor
+16: d d um paula hi
+31: paula b d
+34: clara paula
+find> 5: yeah woo brad vander paula short clara
+6: paula zanden adam clara dunn vander gregor
+8: clara b this yeah c short vander
+18: adam vander c plank adam
+20: d vander a clara
+22: zanden woo vander d
+23: d zanden vander b
+24: vander c is this
+29: vander vander test
+32: g b vander
+33: vander b
+find> 6: paula zanden adam clara dunn vander gregor
+11: dunn g hi this josh test
+14: zanden g dunn f this this
+17: dunn a woo yeah e
+37: dunn
+find> 1: b d e test b woo gregor this
+2: woo hi c test um josh yeah clara
+5: yeah woo brad vander paula short clara
+12: d c woo g zanden b
+13: woo d gregor d e thomas
+15: b zanden e thomas clara woo
+17: dunn a woo yeah e
+22: zanden woo vander d
+find> 
+Run stats ...
+Number of slots used: 26
+Max number of slots:  48
+Number of collisions: 56

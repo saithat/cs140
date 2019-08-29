@@ -1,0 +1,39 @@
+find> find> 3: vander woo b b thomas g e clara
+5: b d clara dunn vander f a
+find> 1: josh d dunn brad dunn plank adam d short um
+2: um e this short gregor hi this e d
+5: b d clara dunn vander f a
+8: clara thomas adam clara brad f d
+16: gregor d 
+find> 6: is hi g paula short gregor josh
+12: dunn hi paula thomas 
+find> 2: um e this short gregor hi this e d
+11: adam this short e hi 
+find> 1: josh d dunn brad dunn plank adam d short um
+4: short clara dunn adam josh um josh thomas
+5: b d clara dunn vander f a
+12: dunn hi paula thomas 
+find> 2: um e this short gregor hi this e d
+6: is hi g paula short gregor josh
+16: gregor d 
+find> 3: vander woo b b thomas g e clara
+6: is hi g paula short gregor josh
+7: g f vander e g c c
+find> 7: g f vander e g c c
+find> 2: um e this short gregor hi this e d
+11: adam this short e hi 
+find> 1: josh d dunn brad dunn plank adam d short um
+10: adam thomas plank zanden plank 
+13: thomas a plank 
+find> 2: um e this short gregor hi this e d
+11: adam this short e hi 
+find> 3: vander woo b b thomas g e clara
+6: is hi g paula short gregor josh
+7: g f vander e g c c
+find> 2: um e this short gregor hi this e d
+11: adam this short e hi 
+find> 
+Run stats ...
+Number of slots used: 25
+Max number of slots:  48
+Number of collisions: 28

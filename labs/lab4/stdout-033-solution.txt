@@ -1,0 +1,123 @@
+find> 2: um c gregor dunn
+4: d vander b c
+11: c g is woo
+28: short c b
+find> 10: thomas a g vander
+19: josh hi a
+25: f gregor a
+31: a 
+find> 3: plank vander plank clara
+7: d zanden hi plank
+17: plank e um
+20: test thomas plank
+26: plank adam f
+find> 8: e zanden is woo
+11: c g is woo
+16: vander vander woo
+24: clara dunn woo
+find> 13: test d yeah
+15: yeah vander brad
+21: yeah hi zanden
+27: test um yeah
+find> 5: thomas d brad thomas
+10: thomas a g vander
+14: josh thomas f
+20: test thomas plank
+22: hi e thomas
+find> 10: thomas a g vander
+11: c g is woo
+find> find> 2: um c gregor dunn
+4: d vander b c
+11: c g is woo
+28: short c b
+find> find> find> 2: um c gregor dunn
+4: d vander b c
+11: c g is woo
+28: short c b
+find> 4: d vander b c
+9: josh b e b
+12: hi b test dunn
+28: short c b
+find> find> 3: plank vander plank clara
+4: d vander b c
+10: thomas a g vander
+15: yeah vander brad
+16: vander vander woo
+find> 7: d zanden hi plank
+12: hi b test dunn
+19: josh hi a
+21: yeah hi zanden
+22: hi e thomas
+find> 13: test d yeah
+15: yeah vander brad
+21: yeah hi zanden
+27: test um yeah
+find> find> 5: thomas d brad thomas
+10: thomas a g vander
+14: josh thomas f
+20: test thomas plank
+22: hi e thomas
+find> 1: josh zanden d is
+4: d vander b c
+5: thomas d brad thomas
+7: d zanden hi plank
+13: test d yeah
+29: d 
+32: d 
+find> 5: thomas d brad thomas
+10: thomas a g vander
+14: josh thomas f
+20: test thomas plank
+22: hi e thomas
+find> 5: thomas d brad thomas
+15: yeah vander brad
+23: brad e clara
+find> 8: e zanden is woo
+11: c g is woo
+16: vander vander woo
+24: clara dunn woo
+find> 5: thomas d brad thomas
+15: yeah vander brad
+23: brad e clara
+find> 3: plank vander plank clara
+4: d vander b c
+10: thomas a g vander
+15: yeah vander brad
+16: vander vander woo
+find> 6: dunn e gregor test
+8: e zanden is woo
+9: josh b e b
+17: plank e um
+22: hi e thomas
+23: brad e clara
+find> 13: test d yeah
+15: yeah vander brad
+21: yeah hi zanden
+27: test um yeah
+find> 10: thomas a g vander
+11: c g is woo
+find> 8: e zanden is woo
+11: c g is woo
+16: vander vander woo
+24: clara dunn woo
+find> 2: um c gregor dunn
+6: dunn e gregor test
+25: f gregor a
+find> 4: d vander b c
+9: josh b e b
+12: hi b test dunn
+28: short c b
+find> 4: d vander b c
+9: josh b e b
+12: hi b test dunn
+28: short c b
+find> 2: um c gregor dunn
+6: dunn e gregor test
+12: hi b test dunn
+18: clara dunn josh
+24: clara dunn woo
+find> 
+Run stats ...
+Number of slots used: 24
+Max number of slots:  48
+Number of collisions: 17

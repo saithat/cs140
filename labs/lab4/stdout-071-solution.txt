@@ -1,0 +1,38 @@
+find> 9: c
+find> 2: d
+10: d
+find> 3: brad
+find> find> find> find> find> find> 8: a
+find> 2: d
+10: d
+find> 2: d
+10: d
+find> find> find> find> find> find> 2: d
+10: d
+find> 2: d
+10: d
+find> 6: dunn
+find> find> find> 7: gregor
+find> 3: brad
+find> find> 5: b
+find> find> 5: b
+find> find> find> 4: hi
+find> find> find> 5: b
+find> find> find> find> 7: gregor
+find> find> find> find> find> find> 7: gregor
+find> find> find> 2: d
+10: d
+find> 6: dunn
+find> find> find> find> find> find> 9: c
+find> 5: b
+find> find> 4: hi
+find> 4: hi
+find> find> find> find> 2: d
+10: d
+find> find> 5: b
+find> find> find> find> find> find> find> 3: brad
+find> find> 
+Run stats ...
+Number of slots used: 9
+Max number of slots:  11
+Number of collisions: 4

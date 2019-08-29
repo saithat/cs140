@@ -1,0 +1,21 @@
+find> 4: f is um g josh
+find> 1: woo b c g hi
+find> 4: f is um g josh
+find> 5: d yeah thomas d brad
+6: dunn yeah d adam is
+10: brad yeah
+find> find> 1: woo b c g hi
+find> 1: woo b c g hi
+find> 1: woo b c g hi
+2: g zanden test vander is
+4: f is um g josh
+9: g paula
+find> 5: d yeah thomas d brad
+6: dunn yeah d adam is
+10: brad yeah
+find> 6: dunn yeah d adam is
+find> 
+Run stats ...
+Number of slots used: 22
+Max number of slots:  23
+Number of collisions: 15

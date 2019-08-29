@@ -1,0 +1,109 @@
+find> 47: um
+find> 47: um
+find> 39: is
+find> 23: adam
+find> 23: adam
+find> 2: paula
+5: paula
+9: paula
+29: paula
+30: paula
+find> 33: dunn
+find> 32: vander
+36: vander
+find> 16: d
+31: d
+42: d
+find> 34: zanden
+find> 4: gregor
+38: gregor
+find> 3: yeah
+19: yeah
+find> 13: thomas
+17: thomas
+25: thomas
+find> 3: yeah
+19: yeah
+find> 13: thomas
+17: thomas
+25: thomas
+find> 47: um
+find> 3: yeah
+19: yeah
+find> 47: um
+find> 20: clara
+40: clara
+find> 3: yeah
+19: yeah
+find> 28: this
+find> 2: paula
+5: paula
+9: paula
+29: paula
+30: paula
+find> 6: woo
+35: woo
+find> 34: zanden
+find> 20: clara
+40: clara
+find> 1: c
+41: c
+find> 6: woo
+35: woo
+find> find> 16: d
+31: d
+42: d
+find> 12: b
+find> 4: gregor
+38: gregor
+find> 22: f
+27: f
+find> 24: hi
+find> 8: g
+14: g
+15: g
+37: g
+find> 47: um
+find> 18: e
+find> 8: g
+14: g
+15: g
+37: g
+find> 2: paula
+5: paula
+9: paula
+29: paula
+30: paula
+find> 34: zanden
+find> 23: adam
+find> 22: f
+27: f
+find> 18: e
+find> 20: clara
+40: clara
+find> 10: plank
+43: plank
+find> 16: d
+31: d
+42: d
+find> 24: hi
+find> 7: brad
+26: brad
+46: brad
+find> 16: d
+31: d
+42: d
+find> 3: yeah
+19: yeah
+find> 2: paula
+5: paula
+9: paula
+29: paula
+30: paula
+find> 6: woo
+35: woo
+find> 
+Run stats ...
+Number of slots used: 25
+Max number of slots:  48
+Number of collisions: 9

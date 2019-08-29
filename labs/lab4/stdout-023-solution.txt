@@ -1,0 +1,116 @@
+find> 1: d is g adam hi test josh c is
+7: this paula clara paula d woo c 
+13: d brad b woo zanden um brad 
+15: um thomas e g is d plank 
+18: e um short brad d um 
+find> 4: test hi f test um g brad 
+9: is this b f zanden woo paula 
+find> 9: is this b f zanden woo paula 
+10: b zanden paula yeah c hi yeah 
+13: d brad b woo zanden um brad 
+14: dunn b hi short g yeah zanden 
+24: b dunn 
+find> 2: is is vander yeah g woo um zanden a
+5: short gregor gregor vander this brad hi 
+11: clara paula hi this zanden vander a 
+17: dunn hi brad josh adam vander zanden 
+22: gregor paula vander 
+find> 12: paula hi zanden adam brad dunn gregor 
+14: dunn b hi short g yeah zanden 
+16: hi thomas um dunn zanden c is 
+17: dunn hi brad josh adam vander zanden 
+24: b dunn 
+find> 1: d is g adam hi test josh c is
+7: this paula clara paula d woo c 
+13: d brad b woo zanden um brad 
+15: um thomas e g is d plank 
+18: e um short brad d um 
+find> 2: is is vander yeah g woo um zanden a
+5: short gregor gregor vander this brad hi 
+11: clara paula hi this zanden vander a 
+17: dunn hi brad josh adam vander zanden 
+22: gregor paula vander 
+find> 3: c g adam yeah e thomas yeah 
+15: um thomas e g is d plank 
+18: e um short brad d um 
+19: e short g a is 
+find> 1: d is g adam hi test josh c is
+4: test hi f test um g brad 
+5: short gregor gregor vander this brad hi 
+8: adam adam gregor brad thomas zanden hi 
+10: b zanden paula yeah c hi yeah 
+11: clara paula hi this zanden vander a 
+12: paula hi zanden adam brad dunn gregor 
+14: dunn b hi short g yeah zanden 
+16: hi thomas um dunn zanden c is 
+17: dunn hi brad josh adam vander zanden 
+21: a hi hi 
+find> 7: this paula clara paula d woo c 
+11: clara paula hi this zanden vander a 
+find> 1: d is g adam hi test josh c is
+17: dunn hi brad josh adam vander zanden 
+find> 1: d is g adam hi test josh c is
+3: c g adam yeah e thomas yeah 
+6: plank thomas paula zanden thomas adam is 
+8: adam adam gregor brad thomas zanden hi 
+12: paula hi zanden adam brad dunn gregor 
+17: dunn hi brad josh adam vander zanden 
+find> 1: d is g adam hi test josh c is
+17: dunn hi brad josh adam vander zanden 
+find> 1: d is g adam hi test josh c is
+2: is is vander yeah g woo um zanden a
+6: plank thomas paula zanden thomas adam is 
+9: is this b f zanden woo paula 
+15: um thomas e g is d plank 
+16: hi thomas um dunn zanden c is 
+19: e short g a is 
+25: is 
+find> 4: test hi f test um g brad 
+9: is this b f zanden woo paula 
+find> 2: is is vander yeah g woo um zanden a
+6: plank thomas paula zanden thomas adam is 
+8: adam adam gregor brad thomas zanden hi 
+9: is this b f zanden woo paula 
+10: b zanden paula yeah c hi yeah 
+11: clara paula hi this zanden vander a 
+12: paula hi zanden adam brad dunn gregor 
+13: d brad b woo zanden um brad 
+14: dunn b hi short g yeah zanden 
+16: hi thomas um dunn zanden c is 
+17: dunn hi brad josh adam vander zanden 
+find> 6: plank thomas paula zanden thomas adam is 
+15: um thomas e g is d plank 
+find> 1: d is g adam hi test josh c is
+4: test hi f test um g brad 
+find> 4: test hi f test um g brad 
+9: is this b f zanden woo paula 
+find> 1: d is g adam hi test josh c is
+4: test hi f test um g brad 
+5: short gregor gregor vander this brad hi 
+8: adam adam gregor brad thomas zanden hi 
+10: b zanden paula yeah c hi yeah 
+11: clara paula hi this zanden vander a 
+12: paula hi zanden adam brad dunn gregor 
+14: dunn b hi short g yeah zanden 
+16: hi thomas um dunn zanden c is 
+17: dunn hi brad josh adam vander zanden 
+21: a hi hi 
+find> 5: short gregor gregor vander this brad hi 
+7: this paula clara paula d woo c 
+9: is this b f zanden woo paula 
+11: clara paula hi this zanden vander a 
+find> 12: paula hi zanden adam brad dunn gregor 
+14: dunn b hi short g yeah zanden 
+16: hi thomas um dunn zanden c is 
+17: dunn hi brad josh adam vander zanden 
+24: b dunn 
+find> 3: c g adam yeah e thomas yeah 
+6: plank thomas paula zanden thomas adam is 
+8: adam adam gregor brad thomas zanden hi 
+15: um thomas e g is d plank 
+16: hi thomas um dunn zanden c is 
+find> 
+Run stats ...
+Number of slots used: 26
+Max number of slots:  48
+Number of collisions: 78

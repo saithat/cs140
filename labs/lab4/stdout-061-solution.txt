@@ -1,0 +1,70 @@
+find> 2: clara
+17: clara
+find> 13: brad
+find> find> 21: paula
+find> 4: plank
+16: plank
+find> 9: a
+find> 6: vander
+10: vander
+15: vander
+find> 3: yeah
+find> 5: um
+14: um
+find> 5: um
+14: um
+find> 19: f
+22: f
+find> find> 5: um
+14: um
+find> 3: yeah
+find> find> 9: a
+find> 4: plank
+16: plank
+find> find> find> 2: clara
+17: clara
+find> find> find> find> find> 9: a
+find> find> 5: um
+14: um
+find> find> 23: hi
+find> 13: brad
+find> 8: woo
+find> 9: a
+find> 2: clara
+17: clara
+find> find> 20: this
+find> find> 13: brad
+find> 20: this
+find> 8: woo
+find> 8: woo
+find> 2: clara
+17: clara
+find> find> 21: paula
+find> 2: clara
+17: clara
+find> find> 19: f
+22: f
+find> 19: f
+22: f
+find> 6: vander
+10: vander
+15: vander
+find> 23: hi
+find> find> 5: um
+14: um
+find> find> 3: yeah
+find> find> 12: e
+find> 9: a
+find> find> 4: plank
+16: plank
+find> 6: vander
+10: vander
+15: vander
+find> 1: is
+find> 4: plank
+16: plank
+find> 
+Run stats ...
+Number of slots used: 17
+Max number of slots:  23
+Number of collisions: 10

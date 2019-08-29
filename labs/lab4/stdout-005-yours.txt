@@ -1,0 +1,8 @@
+find> 1: c test
+find> 1: c test
+find> find> 6: hi 
+find> 4: yeah e
+find> Run stats ...
+Number of slots used: 11
+Max number of slots: 23
+Number of collisions: 7

@@ -1,0 +1,15 @@
+find> 9: c um adam
+find> 2: vander short thomas a
+find> 8: thomas is e
+find> 3: b adam test d
+9: c um adam
+find> find> 1: g brad plank g
+6: brad dunn short
+7: woo zanden brad
+find> 1: g brad plank g
+find> 5: dunn um f
+find> 
+Run stats ...
+Number of slots used: 22
+Max number of slots:  23
+Number of collisions: 19

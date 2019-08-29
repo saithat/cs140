@@ -1,0 +1,38 @@
+find> 17: c 
+find> 4: is woo d short josh
+6: f g d woo f
+7: g e clara um d
+find> 4: is woo d short josh
+8: plank brad b f is
+9: dunn hi f is 
+16: is 
+find> 13: dunn gregor paula 
+find> 2: um dunn b paula test
+5: short paula test josh b
+13: dunn gregor paula 
+find> 2: um dunn b paula test
+5: short paula test josh b
+13: dunn gregor paula 
+find> 4: is woo d short josh
+8: plank brad b f is
+9: dunn hi f is 
+16: is 
+find> 10: zanden hi test brad 
+find> 8: plank brad b f is
+19: plank 
+find> 1: this clara adam a f
+6: f g d woo f
+8: plank brad b f is
+9: dunn hi f is 
+find> 3: josh test vander this woo
+4: is woo d short josh
+6: f g d woo f
+11: woo hi test 
+14: a woo um 
+18: woo 
+find> find> 13: dunn gregor paula 
+find> 
+Run stats ...
+Number of slots used: 24
+Max number of slots:  48
+Number of collisions: 30

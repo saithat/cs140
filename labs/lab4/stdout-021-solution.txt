@@ -1,0 +1,18 @@
+find> find> 2: um
+find> 4: dunn
+9: dunn
+find> find> 6: zanden
+find> 8: this
+find> find> 1: c
+3: c
+5: c
+find> find> 11: paula
+find> find> find> find> find> find> 10: f
+find> find> find> 7: clara
+12: clara
+find> 10: f
+find> find> 
+Run stats ...
+Number of slots used: 8
+Max number of slots:  11
+Number of collisions: 1

@@ -1,0 +1,8 @@
+find> find> find> find> find> find> 1: c
+find> find> find> find> find> find> find> find> find> find> find> find> find> find> find> 1: c
+find> 3: clara
+find> find> find> find> find> find> find> 6: plank
+find> find> find> find> Run stats ...
+Number of slots used: 5
+Max number of slots: 11
+Number of collisions: 0

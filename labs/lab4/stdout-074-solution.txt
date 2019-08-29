@@ -1,0 +1,67 @@
+find> find> find> 9: is test
+find> 6: plank hi
+find> find> 3: adam e
+4: thomas adam
+5: um adam
+find> 1: plank test dunn
+9: is test
+find> 3: adam e
+7: e woo
+find> 2: thomas d f
+4: thomas adam
+find> find> find> 9: is test
+find> 5: um adam
+find> 8: gregor gregor
+find> 2: thomas d f
+4: thomas adam
+find> find> 3: adam e
+4: thomas adam
+5: um adam
+find> 2: thomas d f
+find> 5: um adam
+find> find> 11: short
+find> 7: e woo
+find> find> 10: this
+find> 3: adam e
+7: e woo
+find> 5: um adam
+find> find> 2: thomas d f
+4: thomas adam
+find> 12: b
+find> 11: short
+find> find> 3: adam e
+4: thomas adam
+5: um adam
+find> find> find> 3: adam e
+7: e woo
+find> 8: gregor gregor
+find> find> 8: gregor gregor
+find> 7: e woo
+find> find> find> find> find> 3: adam e
+7: e woo
+find> find> find> find> 1: plank test dunn
+9: is test
+find> 3: adam e
+7: e woo
+find> find> 2: thomas d f
+find> find> 12: b
+find> 10: this
+find> 3: adam e
+4: thomas adam
+5: um adam
+find> find> find> find> 12: b
+find> find> 11: short
+find> 11: short
+find> 12: b
+find> find> 5: um adam
+find> find> find> 8: gregor gregor
+find> 6: plank hi
+find> 1: plank test dunn
+13: dunn
+find> 2: thomas d f
+4: thomas adam
+find> find> find> find> 
+Run stats ...
+Number of slots used: 16
+Max number of slots:  23
+Number of collisions: 16

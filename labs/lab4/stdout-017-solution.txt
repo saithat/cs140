@@ -1,0 +1,31 @@
+find> 2: b plank plank d clara b
+find> 1: g dunn yeah brad test f g
+5: dunn e
+find> find> 1: g dunn yeah brad test f g
+4: c g test
+find> find> 6: is yeah
+find> 2: b plank plank d clara b
+7: plank josh
+16: plank
+find> 1: g dunn yeah brad test f g
+4: c g test
+find> 11: zanden
+find> 3: brad paula c c clara
+4: c g test
+18: c
+find> 1: g dunn yeah brad test f g
+4: c g test
+find> 9: short
+find> find> 2: b plank plank d clara b
+3: brad paula c c clara
+8: adam clara
+15: clara
+17: clara
+19: clara
+find> 11: zanden
+find> 2: b plank plank d clara b
+find> find> 
+Run stats ...
+Number of slots used: 18
+Max number of slots:  23
+Number of collisions: 15

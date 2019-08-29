@@ -1,0 +1,31 @@
+find> 8: clara
+find> find> find> find> find> 7: a
+14: a
+find> find> find> 4: f
+find> 5: woo
+13: woo
+find> 7: a
+14: a
+find> find> find> 9: plank
+find> find> find> find> 1: zanden
+12: zanden
+find> 16: dunn
+find> find> 15: paula
+find> 15: paula
+find> find> 1: zanden
+12: zanden
+find> find> 7: a
+14: a
+find> 4: f
+find> find> find> 10: c
+find> find> find> 9: plank
+find> 3: brad
+find> 8: clara
+find> find> find> 2: short
+11: short
+17: short
+find> find> find> 16: dunn
+find> Run stats ...
+Number of slots used: 12
+Max number of slots: 23
+Number of collisions: 7

@@ -1,0 +1,46 @@
+find> 1: um adam
+11: adam short
+14: adam adam
+find> 15: clara a
+find> 18: um paula
+22: paula 
+find> 18: um paula
+22: paula 
+find> 23: e 
+find> 1: um adam
+6: brad um
+8: hi um
+16: um brad
+18: um paula
+find> 17: is test
+find> 1: um adam
+11: adam short
+14: adam adam
+find> find> 3: josh d
+4: josh b
+5: test josh
+find> 3: josh d
+find> 17: is test
+find> 3: josh d
+4: josh b
+5: test josh
+find> find> 6: brad um
+7: brad g
+16: um brad
+find> find> 2: b gregor
+find> 3: josh d
+4: josh b
+5: test josh
+find> 2: b gregor
+4: josh b
+12: c b
+find> 21: plank 
+find> find> find> 9: thomas test
+find> 6: brad um
+7: brad g
+16: um brad
+find> 15: clara a
+find> Run stats ...
+Number of slots used: 20
+Max number of slots: 23
+Number of collisions: 13

@@ -1,0 +1,424 @@
+find> 2: test brad thomas
+9: gregor brad is
+16: brad f 
+73: brad 
+find> 52: this 
+74: this 
+find> 5: e vander short
+8: short gregor a
+22: short 
+33: short 
+find> 3: e clara is
+5: e vander short
+49: e 
+62: e 
+find> 18: woo adam 
+32: adam 
+34: adam 
+35: adam 
+59: adam 
+80: adam 
+find> 12: plank a 
+14: thomas plank 
+15: plank a 
+19: plank yeah 
+23: plank 
+46: plank 
+48: plank 
+85: plank 
+find> 5: e vander short
+6: b zanden vander
+21: vander 
+28: vander 
+29: vander 
+31: vander 
+find> 43: d 
+find> 18: woo adam 
+53: woo 
+54: woo 
+find> 43: d 
+find> 5: e vander short
+6: b zanden vander
+21: vander 
+28: vander 
+29: vander 
+31: vander 
+find> 3: e clara is
+7: paula is josh
+9: gregor brad is
+17: is g 
+24: is 
+30: is 
+58: is 
+find> 10: hi dunn 
+find> 1: um zanden clara
+3: e clara is
+20: test clara 
+38: clara 
+41: clara 
+47: clara 
+55: clara 
+61: clara 
+75: clara 
+find> 8: short gregor a
+11: paula a 
+12: plank a 
+15: plank a 
+26: a 
+27: a 
+37: a 
+79: a 
+find> 1: um zanden clara
+find> 5: e vander short
+8: short gregor a
+22: short 
+33: short 
+find> 12: plank a 
+14: thomas plank 
+15: plank a 
+19: plank yeah 
+23: plank 
+46: plank 
+48: plank 
+85: plank 
+find> 8: short gregor a
+11: paula a 
+12: plank a 
+15: plank a 
+26: a 
+27: a 
+37: a 
+79: a 
+find> 5: e vander short
+6: b zanden vander
+21: vander 
+28: vander 
+29: vander 
+31: vander 
+find> 18: woo adam 
+53: woo 
+54: woo 
+find> 1: um zanden clara
+3: e clara is
+20: test clara 
+38: clara 
+41: clara 
+47: clara 
+55: clara 
+61: clara 
+75: clara 
+find> 5: e vander short
+8: short gregor a
+22: short 
+33: short 
+find> 1: um zanden clara
+6: b zanden vander
+find> 1: um zanden clara
+3: e clara is
+20: test clara 
+38: clara 
+41: clara 
+47: clara 
+55: clara 
+61: clara 
+75: clara 
+find> 10: hi dunn 
+find> 6: b zanden vander
+51: b 
+56: b 
+72: b 
+77: b 
+find> 1: um zanden clara
+find> 5: e vander short
+6: b zanden vander
+21: vander 
+28: vander 
+29: vander 
+31: vander 
+find> 8: short gregor a
+9: gregor brad is
+64: gregor 
+81: gregor 
+84: gregor 
+find> 4: paula test c
+13: yeah c 
+63: c 
+find> 18: woo adam 
+53: woo 
+54: woo 
+find> 7: paula is josh
+60: josh 
+65: josh 
+find> 3: e clara is
+7: paula is josh
+9: gregor brad is
+17: is g 
+24: is 
+30: is 
+58: is 
+find> 4: paula test c
+13: yeah c 
+63: c 
+find> 4: paula test c
+7: paula is josh
+11: paula a 
+36: paula 
+40: paula 
+find> 5: e vander short
+6: b zanden vander
+21: vander 
+28: vander 
+29: vander 
+31: vander 
+find> 10: hi dunn 
+39: hi 
+42: hi 
+68: hi 
+70: hi 
+find> 8: short gregor a
+9: gregor brad is
+64: gregor 
+81: gregor 
+84: gregor 
+find> 2: test brad thomas
+9: gregor brad is
+16: brad f 
+73: brad 
+find> 18: woo adam 
+53: woo 
+54: woo 
+find> 8: short gregor a
+11: paula a 
+12: plank a 
+15: plank a 
+26: a 
+27: a 
+37: a 
+79: a 
+find> 18: woo adam 
+32: adam 
+34: adam 
+35: adam 
+59: adam 
+80: adam 
+find> 8: short gregor a
+9: gregor brad is
+64: gregor 
+81: gregor 
+84: gregor 
+find> 2: test brad thomas
+4: paula test c
+20: test clara 
+57: test 
+67: test 
+69: test 
+find> 18: woo adam 
+32: adam 
+34: adam 
+35: adam 
+59: adam 
+80: adam 
+find> 10: hi dunn 
+39: hi 
+42: hi 
+68: hi 
+70: hi 
+find> 2: test brad thomas
+14: thomas plank 
+45: thomas 
+71: thomas 
+82: thomas 
+83: thomas 
+find> 17: is g 
+76: g 
+find> 17: is g 
+76: g 
+find> 3: e clara is
+7: paula is josh
+9: gregor brad is
+17: is g 
+24: is 
+30: is 
+58: is 
+find> 16: brad f 
+25: f 
+44: f 
+50: f 
+find> 7: paula is josh
+60: josh 
+65: josh 
+find> 2: test brad thomas
+14: thomas plank 
+45: thomas 
+71: thomas 
+82: thomas 
+83: thomas 
+find> 1: um zanden clara
+find> 18: woo adam 
+32: adam 
+34: adam 
+35: adam 
+59: adam 
+80: adam 
+find> 2: test brad thomas
+14: thomas plank 
+45: thomas 
+71: thomas 
+82: thomas 
+83: thomas 
+find> 17: is g 
+76: g 
+find> 1: um zanden clara
+6: b zanden vander
+find> 10: hi dunn 
+39: hi 
+42: hi 
+68: hi 
+70: hi 
+find> 2: test brad thomas
+4: paula test c
+20: test clara 
+57: test 
+67: test 
+69: test 
+find> 5: e vander short
+8: short gregor a
+22: short 
+33: short 
+find> 1: um zanden clara
+find> 16: brad f 
+25: f 
+44: f 
+50: f 
+find> 1: um zanden clara
+6: b zanden vander
+find> 4: paula test c
+7: paula is josh
+11: paula a 
+36: paula 
+40: paula 
+find> 3: e clara is
+5: e vander short
+49: e 
+62: e 
+find> 18: woo adam 
+53: woo 
+54: woo 
+find> 52: this 
+74: this 
+find> 5: e vander short
+6: b zanden vander
+21: vander 
+28: vander 
+29: vander 
+31: vander 
+find> 52: this 
+74: this 
+find> 2: test brad thomas
+4: paula test c
+20: test clara 
+57: test 
+67: test 
+69: test 
+find> 1: um zanden clara
+3: e clara is
+20: test clara 
+38: clara 
+41: clara 
+47: clara 
+55: clara 
+61: clara 
+75: clara 
+find> 18: woo adam 
+53: woo 
+54: woo 
+find> 16: brad f 
+25: f 
+44: f 
+50: f 
+find> 8: short gregor a
+9: gregor brad is
+64: gregor 
+81: gregor 
+84: gregor 
+find> 2: test brad thomas
+9: gregor brad is
+16: brad f 
+73: brad 
+find> 4: paula test c
+7: paula is josh
+11: paula a 
+36: paula 
+40: paula 
+find> 10: hi dunn 
+find> 18: woo adam 
+32: adam 
+34: adam 
+35: adam 
+59: adam 
+80: adam 
+find> 16: brad f 
+25: f 
+44: f 
+50: f 
+find> 2: test brad thomas
+9: gregor brad is
+16: brad f 
+73: brad 
+find> 4: paula test c
+13: yeah c 
+63: c 
+find> 1: um zanden clara
+3: e clara is
+20: test clara 
+38: clara 
+41: clara 
+47: clara 
+55: clara 
+61: clara 
+75: clara 
+find> 18: woo adam 
+32: adam 
+34: adam 
+35: adam 
+59: adam 
+80: adam 
+find> 18: woo adam 
+32: adam 
+34: adam 
+35: adam 
+59: adam 
+80: adam 
+find> 5: e vander short
+6: b zanden vander
+21: vander 
+28: vander 
+29: vander 
+31: vander 
+find> 2: test brad thomas
+9: gregor brad is
+16: brad f 
+73: brad 
+find> 2: test brad thomas
+4: paula test c
+20: test clara 
+57: test 
+67: test 
+69: test 
+find> 12: plank a 
+14: thomas plank 
+15: plank a 
+19: plank yeah 
+23: plank 
+46: plank 
+48: plank 
+85: plank 
+find> 8: short gregor a
+9: gregor brad is
+64: gregor 
+81: gregor 
+84: gregor 
+find> Run stats ...
+Number of slots used: 26
+Max number of slots: 48
+Number of collisions: 48

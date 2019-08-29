@@ -1,0 +1,4 @@
+find> find> find> Run stats ...
+Number of slots used: 15
+Max number of slots: 23
+Number of collisions: 6

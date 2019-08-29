@@ -1,0 +1,12 @@
+find> 1: c adam test um is brad is thomas adam d gregor a
+find> 2: short dunn gregor test e gregor brad zanden a short gregor
+7: a short b
+find> 3: josh thomas b test this b test brad zanden vander
+find> 2: short dunn gregor test e gregor brad zanden a short gregor
+3: josh thomas b test this b test brad zanden vander
+4: zanden g hi yeah test gregor clara zanden
+find> 
+Run stats ...
+Number of slots used: 25
+Max number of slots:  48
+Number of collisions: 34

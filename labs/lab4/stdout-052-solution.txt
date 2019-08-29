@@ -1,0 +1,12 @@
+find> find> find> find> find> find> find> find> find> find> find> 1: josh
+find> find> find> find> find> find> find> find> find> 1: josh
+find> find> find> find> find> 2: f
+find> 1: josh
+find> 2: f
+find> find> find> find> find> find> find> find> 2: f
+find> 1: josh
+find> find> find> find> find> find> find> find> find> find> find> find> find> find> find> find> find> 
+Run stats ...
+Number of slots used: 2
+Max number of slots:  11
+Number of collisions: 0

@@ -1,0 +1,156 @@
+find> 1: this brad yeah woo brad
+7: this zanden test d gregor
+8: is this d gregor plank
+11: this plank um paula
+find> 7: this zanden test d gregor
+8: is this d gregor plank
+21: gregor paula 
+23: f gregor 
+28: d gregor 
+find> 1: this brad yeah woo brad
+3: yeah dunn clara brad woo
+5: woo josh is yeah paula
+6: plank hi dunn paula woo
+find> 7: this zanden test d gregor
+14: e zanden 
+27: thomas zanden 
+find> 9: b a f short e
+10: is e a dunn f
+find> 4: test b clara adam paula
+9: b a f short e
+32: b 
+find> 2: adam d josh josh e
+9: b a f short e
+10: is e a dunn f
+14: e zanden 
+17: e paula 
+26: e f 
+30: e thomas 
+find> 6: plank hi dunn paula woo
+12: test hi short thomas
+29: hi josh 
+find> 4: test b clara adam paula
+9: b a f short e
+32: b 
+find> 2: adam d josh josh e
+4: test b clara adam paula
+find> 2: adam d josh josh e
+5: woo josh is yeah paula
+16: josh brad 
+24: f josh 
+29: hi josh 
+find> 4: test b clara adam paula
+7: this zanden test d gregor
+12: test hi short thomas
+find> 3: yeah dunn clara brad woo
+6: plank hi dunn paula woo
+10: is e a dunn f
+22: dunn um 
+find> 3: yeah dunn clara brad woo
+6: plank hi dunn paula woo
+10: is e a dunn f
+22: dunn um 
+find> 6: plank hi dunn paula woo
+12: test hi short thomas
+29: hi josh 
+find> 18: paula c 
+20: vander c 
+25: vander c 
+find> 4: test b clara adam paula
+7: this zanden test d gregor
+12: test hi short thomas
+find> 5: woo josh is yeah paula
+8: is this d gregor plank
+10: is e a dunn f
+15: d is 
+find> 9: b a f short e
+10: is e a dunn f
+find> 2: adam d josh josh e
+9: b a f short e
+10: is e a dunn f
+14: e zanden 
+17: e paula 
+26: e f 
+30: e thomas 
+find> 5: woo josh is yeah paula
+8: is this d gregor plank
+10: is e a dunn f
+15: d is 
+find> 4: test b clara adam paula
+5: woo josh is yeah paula
+6: plank hi dunn paula woo
+11: this plank um paula
+17: e paula 
+18: paula c 
+19: brad paula 
+21: gregor paula 
+find> 2: adam d josh josh e
+7: this zanden test d gregor
+8: is this d gregor plank
+15: d is 
+28: d gregor 
+31: d 
+find> 6: plank hi dunn paula woo
+8: is this d gregor plank
+11: this plank um paula
+find> 9: b a f short e
+12: test hi short thomas
+13: thomas um short 
+find> 3: yeah dunn clara brad woo
+6: plank hi dunn paula woo
+10: is e a dunn f
+22: dunn um 
+find> 9: b a f short e
+12: test hi short thomas
+13: thomas um short 
+find> 9: b a f short e
+10: is e a dunn f
+find> 2: adam d josh josh e
+7: this zanden test d gregor
+8: is this d gregor plank
+15: d is 
+28: d gregor 
+31: d 
+find> 6: plank hi dunn paula woo
+8: is this d gregor plank
+11: this plank um paula
+find> 3: yeah dunn clara brad woo
+6: plank hi dunn paula woo
+10: is e a dunn f
+22: dunn um 
+find> 9: b a f short e
+10: is e a dunn f
+23: f gregor 
+24: f josh 
+26: e f 
+find> 9: b a f short e
+12: test hi short thomas
+13: thomas um short 
+find> 9: b a f short e
+10: is e a dunn f
+find> 12: test hi short thomas
+13: thomas um short 
+27: thomas zanden 
+30: e thomas 
+find> 20: vander c 
+25: vander c 
+find> 3: yeah dunn clara brad woo
+6: plank hi dunn paula woo
+10: is e a dunn f
+22: dunn um 
+find> 7: this zanden test d gregor
+14: e zanden 
+27: thomas zanden 
+find> 6: plank hi dunn paula woo
+8: is this d gregor plank
+11: this plank um paula
+find> 2: adam d josh josh e
+7: this zanden test d gregor
+8: is this d gregor plank
+15: d is 
+28: d gregor 
+31: d 
+find> Run stats ...
+Number of slots used: 26
+Max number of slots: 48
+Number of collisions: 57

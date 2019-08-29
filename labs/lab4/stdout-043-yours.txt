@@ -1,0 +1,113 @@
+find> 4: b paula short 
+9: yeah short gregor 
+find> 1: um zanden c d hi
+3: a d vander 
+find> find> 11: this g 
+22: this brad 
+find> 3: a d vander 
+8: clara a gregor 
+find> 9: yeah short gregor 
+find> 9: yeah short gregor 
+find> 24: dunn 
+find> 2: test hi c 
+5: test thomas brad 
+6: gregor test b 
+12: test brad 
+13: brad test 
+27: test 
+find> 11: this g 
+14: g um 
+19: g vander 
+21: clara g 
+find> 4: b paula short 
+9: yeah short gregor 
+find> 8: clara a gregor 
+21: clara g 
+find> 3: a d vander 
+15: vander hi 
+19: g vander 
+23: vander 
+26: vander 
+find> 7: c is paula 
+10: thomas is 
+find> 5: test thomas brad 
+12: test brad 
+13: brad test 
+16: c brad 
+22: this brad 
+find> 2: test hi c 
+5: test thomas brad 
+6: gregor test b 
+12: test brad 
+13: brad test 
+27: test 
+find> 30: f 
+find> 24: dunn 
+find> 3: a d vander 
+8: clara a gregor 
+find> find> 11: this g 
+14: g um 
+19: g vander 
+21: clara g 
+find> 5: test thomas brad 
+12: test brad 
+13: brad test 
+16: c brad 
+22: this brad 
+find> 3: a d vander 
+15: vander hi 
+19: g vander 
+23: vander 
+26: vander 
+find> find> 4: b paula short 
+6: gregor test b 
+find> 7: c is paula 
+10: thomas is 
+find> 11: this g 
+14: g um 
+19: g vander 
+21: clara g 
+find> 7: c is paula 
+10: thomas is 
+find> find> find> 1: um zanden c d hi
+2: test hi c 
+7: c is paula 
+16: c brad 
+17: c adam 
+find> 1: um zanden c d hi
+3: a d vander 
+find> 4: b paula short 
+6: gregor test b 
+find> 7: c is paula 
+10: thomas is 
+find> 5: test thomas brad 
+12: test brad 
+13: brad test 
+16: c brad 
+22: this brad 
+find> 8: clara a gregor 
+21: clara g 
+find> 3: a d vander 
+15: vander hi 
+19: g vander 
+23: vander 
+26: vander 
+find> 11: this g 
+14: g um 
+19: g vander 
+21: clara g 
+find> 1: um zanden c d hi
+2: test hi c 
+15: vander hi 
+find> find> find> 2: test hi c 
+5: test thomas brad 
+6: gregor test b 
+12: test brad 
+13: brad test 
+27: test 
+find> 1: um zanden c d hi
+3: a d vander 
+find> Run stats ...
+Number of slots used: 24
+Max number of slots: 48
+Number of collisions: 17

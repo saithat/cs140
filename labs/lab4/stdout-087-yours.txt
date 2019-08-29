@@ -1,0 +1,238 @@
+find> find> 16: adam test
+17: adam short
+32: adam 
+find> 31: zanden 
+38: zanden 
+48: zanden 
+find> 14: b josh
+44: josh 
+find> find> 6: thomas woo
+8: woo woo
+18: vander woo
+29: woo 
+find> 27: this 
+43: this 
+find> 31: zanden 
+38: zanden 
+48: zanden 
+find> 9: um hi
+35: um 
+37: um 
+39: um 
+find> 9: um hi
+35: um 
+37: um 
+39: um 
+find> 10: brad plank
+12: plank vander
+28: plank 
+42: plank 
+47: plank 
+find> 22: test dunn
+26: dunn hi
+41: dunn 
+find> find> find> 27: this 
+43: this 
+find> 24: b gregor
+find> 27: this 
+43: this 
+find> 27: this 
+43: this 
+find> 9: um hi
+26: dunn hi
+find> 4: is vander
+11: is clara
+19: thomas is
+40: is 
+45: is 
+find> 22: test dunn
+26: dunn hi
+41: dunn 
+find> find> 15: short test
+16: adam test
+22: test dunn
+30: test 
+50: test 
+52: test 
+find> 4: is vander
+11: is clara
+19: thomas is
+40: is 
+45: is 
+find> 9: um hi
+26: dunn hi
+find> 6: thomas woo
+8: woo woo
+18: vander woo
+29: woo 
+find> 15: short test
+16: adam test
+22: test dunn
+30: test 
+50: test 
+52: test 
+find> find> 11: is clara
+find> find> 22: test dunn
+26: dunn hi
+41: dunn 
+find> find> 14: b josh
+44: josh 
+find> 27: this 
+43: this 
+find> 16: adam test
+17: adam short
+32: adam 
+find> 22: test dunn
+26: dunn hi
+41: dunn 
+find> 2: paula paula
+5: brad paula
+13: paula short
+21: paula thomas
+23: paula f
+find> find> 14: b josh
+44: josh 
+find> 3: f a
+23: paula f
+find> 24: b gregor
+find> 22: test dunn
+26: dunn hi
+41: dunn 
+find> 13: paula short
+15: short test
+17: adam short
+25: short d
+34: short 
+find> 16: adam test
+17: adam short
+32: adam 
+find> 9: um hi
+35: um 
+37: um 
+39: um 
+find> 27: this 
+43: this 
+find> 4: is vander
+11: is clara
+19: thomas is
+40: is 
+45: is 
+find> 2: paula paula
+5: brad paula
+13: paula short
+21: paula thomas
+23: paula f
+find> find> 11: is clara
+find> 31: zanden 
+38: zanden 
+48: zanden 
+find> 27: this 
+43: this 
+find> 13: paula short
+15: short test
+17: adam short
+25: short d
+34: short 
+find> 6: thomas woo
+19: thomas is
+21: paula thomas
+49: thomas 
+find> 9: um hi
+35: um 
+37: um 
+39: um 
+find> 6: thomas woo
+19: thomas is
+21: paula thomas
+49: thomas 
+find> find> 2: paula paula
+5: brad paula
+13: paula short
+21: paula thomas
+23: paula f
+find> 22: test dunn
+26: dunn hi
+41: dunn 
+find> find> 27: this 
+43: this 
+find> 6: thomas woo
+19: thomas is
+21: paula thomas
+49: thomas 
+find> 31: zanden 
+38: zanden 
+48: zanden 
+find> 14: b josh
+24: b gregor
+36: b 
+find> 3: f a
+7: brad a
+20: a brad
+46: a 
+find> 4: is vander
+11: is clara
+19: thomas is
+40: is 
+45: is 
+find> 16: adam test
+17: adam short
+32: adam 
+find> 15: short test
+16: adam test
+22: test dunn
+30: test 
+50: test 
+52: test 
+find> 3: f a
+7: brad a
+20: a brad
+46: a 
+find> find> 3: f a
+23: paula f
+find> 11: is clara
+find> 16: adam test
+17: adam short
+32: adam 
+find> 31: zanden 
+38: zanden 
+48: zanden 
+find> 15: short test
+16: adam test
+22: test dunn
+30: test 
+50: test 
+52: test 
+find> find> find> 14: b josh
+44: josh 
+find> 6: thomas woo
+19: thomas is
+21: paula thomas
+49: thomas 
+find> 6: thomas woo
+19: thomas is
+21: paula thomas
+49: thomas 
+find> 9: um hi
+35: um 
+37: um 
+39: um 
+find> find> 3: f a
+23: paula f
+find> 22: test dunn
+26: dunn hi
+41: dunn 
+find> 2: paula paula
+5: brad paula
+13: paula short
+21: paula thomas
+23: paula f
+find> 9: um hi
+35: um 
+37: um 
+39: um 
+find> 1: brad d
+25: short d
+find> Run stats ...
+Number of slots used: 22
+Max number of slots: 23
+Number of collisions: 38

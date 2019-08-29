@@ -1,0 +1,67 @@
+find> 4: um f josh woo thomas a is
+10: hi josh vander e e this thomas
+16: e josh thomas
+find> 1: gregor vander adam thomas thomas a plank plank f woo
+7: f c gregor brad plank gregor g
+9: d is c plank gregor um plank
+find> 3: c short b um dunn woo short vander short
+13: this test dunn brad vander
+18: g dunn
+find> 8: e yeah yeah plank this hi zanden
+10: hi josh vander e e this thomas
+11: b c e short woo clara clara
+15: zanden e woo
+16: e josh thomas
+find> 1: gregor vander adam thomas thomas a plank plank f woo
+4: um f josh woo thomas a is
+7: f c gregor brad plank gregor g
+14: short f yeah
+find> 1: gregor vander adam thomas thomas a plank plank f woo
+7: f c gregor brad plank gregor g
+9: d is c plank gregor um plank
+find> 1: gregor vander adam thomas thomas a plank plank f woo
+2: hi thomas yeah vander thomas paula clara d thomas this
+4: um f josh woo thomas a is
+6: thomas woo a b c zanden d
+10: hi josh vander e e this thomas
+12: thomas thomas thomas b clara plank
+16: e josh thomas
+find> 2: hi thomas yeah vander thomas paula clara d thomas this
+5: c d woo b b hi brad
+6: thomas woo a b c zanden d
+9: d is c plank gregor um plank
+find> 7: f c gregor brad plank gregor g
+18: g dunn
+find> 3: c short b um dunn woo short vander short
+13: this test dunn brad vander
+18: g dunn
+find> 6: thomas woo a b c zanden d
+8: e yeah yeah plank this hi zanden
+15: zanden e woo
+19: zanden
+find> 1: gregor vander adam thomas thomas a plank plank f woo
+4: um f josh woo thomas a is
+7: f c gregor brad plank gregor g
+14: short f yeah
+find> 1: gregor vander adam thomas thomas a plank plank f woo
+3: c short b um dunn woo short vander short
+4: um f josh woo thomas a is
+5: c d woo b b hi brad
+6: thomas woo a b c zanden d
+11: b c e short woo clara clara
+15: zanden e woo
+find> 1: gregor vander adam thomas thomas a plank plank f woo
+4: um f josh woo thomas a is
+7: f c gregor brad plank gregor g
+14: short f yeah
+find> 3: c short b um dunn woo short vander short
+5: c d woo b b hi brad
+6: thomas woo a b c zanden d
+7: f c gregor brad plank gregor g
+9: d is c plank gregor um plank
+11: b c e short woo clara clara
+17: c paula clara
+find> Run stats ...
+Number of slots used: 26
+Max number of slots: 48
+Number of collisions: 69

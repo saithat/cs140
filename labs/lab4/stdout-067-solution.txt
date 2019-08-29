@@ -1,0 +1,166 @@
+find> find> 11: d plank
+16: zanden d
+find> 6: um paula
+31: paula 
+find> 6: um paula
+31: paula 
+find> 11: d plank
+16: zanden d
+find> 9: test yeah
+find> 18: thomas yeah
+find> 3: g plank
+8: yeah g
+17: g vander
+find> find> 37: this 
+find> 1: yeah e c
+8: yeah g
+9: test yeah
+10: gregor yeah
+13: yeah josh
+18: thomas yeah
+21: yeah woo
+25: yeah plank
+find> 19: brad adam
+23: gregor adam
+38: adam 
+find> 5: c short
+find> find> 1: yeah e c
+7: c e
+34: e 
+find> 17: g vander
+find> 20: josh is
+30: is 
+find> 2: a zanden
+16: zanden d
+27: zanden 
+find> 11: d plank
+16: zanden d
+find> 20: josh is
+30: is 
+find> 11: d plank
+16: zanden d
+find> 3: g plank
+8: yeah g
+17: g vander
+find> find> 17: g vander
+find> 2: a zanden
+16: zanden d
+27: zanden 
+find> 2: a zanden
+36: a 
+find> 15: dunn clara
+22: clara gregor
+find> 21: yeah woo
+28: woo 
+find> 1: yeah e c
+5: c short
+7: c e
+24: c brad
+26: c 
+29: c 
+find> 12: f brad
+33: f 
+find> 4: dunn josh
+13: yeah josh
+14: josh plank
+20: josh is
+32: josh 
+39: josh 
+find> 5: c short
+find> find> find> 9: test yeah
+find> 11: d plank
+16: zanden d
+find> 12: f brad
+33: f 
+find> 12: f brad
+19: brad adam
+24: c brad
+find> 21: yeah woo
+28: woo 
+find> 12: f brad
+19: brad adam
+24: c brad
+find> 1: yeah e c
+7: c e
+34: e 
+find> 15: dunn clara
+22: clara gregor
+find> 12: f brad
+33: f 
+find> 12: f brad
+33: f 
+find> 2: a zanden
+16: zanden d
+27: zanden 
+find> 9: test yeah
+find> 4: dunn josh
+15: dunn clara
+35: dunn 
+find> 4: dunn josh
+15: dunn clara
+35: dunn 
+find> 4: dunn josh
+13: yeah josh
+14: josh plank
+20: josh is
+32: josh 
+39: josh 
+find> 3: g plank
+11: d plank
+14: josh plank
+25: yeah plank
+find> 15: dunn clara
+22: clara gregor
+find> 17: g vander
+find> 4: dunn josh
+13: yeah josh
+14: josh plank
+20: josh is
+32: josh 
+39: josh 
+find> 21: yeah woo
+28: woo 
+find> find> 20: josh is
+30: is 
+find> find> 21: yeah woo
+28: woo 
+find> 2: a zanden
+16: zanden d
+27: zanden 
+find> 21: yeah woo
+28: woo 
+find> 11: d plank
+16: zanden d
+find> 10: gregor yeah
+22: clara gregor
+23: gregor adam
+find> find> 1: yeah e c
+5: c short
+7: c e
+24: c brad
+26: c 
+29: c 
+find> 12: f brad
+19: brad adam
+24: c brad
+find> 1: yeah e c
+8: yeah g
+9: test yeah
+10: gregor yeah
+13: yeah josh
+18: thomas yeah
+21: yeah woo
+25: yeah plank
+find> 1: yeah e c
+8: yeah g
+9: test yeah
+10: gregor yeah
+13: yeah josh
+18: thomas yeah
+21: yeah woo
+25: yeah plank
+find> 
+Run stats ...
+Number of slots used: 24
+Max number of slots:  48
+Number of collisions: 20

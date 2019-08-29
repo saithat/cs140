@@ -1,0 +1,67 @@
+find> 11: d thomas
+24: d 
+find> 11: d thomas
+24: d 
+find> 13: vander f
+find> 6: a dunn
+7: dunn a
+19: dunn 
+find> 3: woo paula
+9: um woo
+15: zanden woo
+find> find> 28: plank 
+find> 4: e adam
+find> 1: is b adam
+4: e adam
+18: josh adam
+23: adam 
+find> 6: a dunn
+7: dunn a
+19: dunn 
+find> 1: is b adam
+4: e adam
+18: josh adam
+23: adam 
+find> 8: this thomas
+17: this yeah
+find> 2: zanden is short
+12: short gregor
+find> 14: brad c
+20: brad 
+find> 2: zanden is short
+15: zanden woo
+find> 14: brad c
+20: brad 
+find> 5: yeah test
+17: this yeah
+22: yeah 
+find> find> 5: yeah test
+find> 4: e adam
+find> 6: a dunn
+7: dunn a
+19: dunn 
+find> 2: zanden is short
+15: zanden woo
+find> 8: this thomas
+11: d thomas
+16: thomas c
+find> 18: josh adam
+find> 1: is b adam
+find> 18: josh adam
+find> 6: a dunn
+7: dunn a
+29: a 
+find> find> find> 27: hi 
+find> 28: plank 
+find> 18: josh adam
+find> 1: is b adam
+find> 18: josh adam
+find> 14: brad c
+20: brad 
+find> 10: gregor c
+14: brad c
+16: thomas c
+find> Run stats ...
+Number of slots used: 24
+Max number of slots: 48
+Number of collisions: 21

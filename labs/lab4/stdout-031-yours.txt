@@ -1,0 +1,76 @@
+find> 4: paula woo d
+9: d thomas
+12: d is
+15: d dunn
+24: yeah d
+find> find> 5: dunn josh plank
+7: dunn clara f
+15: d dunn
+20: test dunn
+find> 7: dunn clara f
+11: f brad
+25: woo f
+find> 4: paula woo d
+13: paula plank
+23: paula this
+find> 7: dunn clara f
+find> 11: f brad
+28: brad yeah
+find> 5: dunn josh plank
+13: paula plank
+14: plank e
+18: plank hi
+21: e plank
+find> find> find> 12: d is
+19: woo is
+26: b is
+find> 4: paula woo d
+13: paula plank
+23: paula this
+find> 11: f brad
+28: brad yeah
+find> 7: dunn clara f
+find> 10: gregor um
+22: vander um
+find> 8: hi adam
+find> 23: paula this
+find> 4: paula woo d
+9: d thomas
+12: d is
+15: d dunn
+24: yeah d
+find> 9: d thomas
+17: short thomas
+29: thomas
+find> 5: dunn josh plank
+13: paula plank
+14: plank e
+18: plank hi
+21: e plank
+find> 30: a
+find> 7: dunn clara f
+find> 11: f brad
+28: brad yeah
+find> 23: paula this
+find> 4: paula woo d
+13: paula plank
+23: paula this
+find> 7: dunn clara f
+find> 2: short e vander
+3: yeah c vander
+22: vander um
+34: vander
+find> 1: c c test
+20: test dunn
+32: test
+find> 5: dunn josh plank
+27: gregor josh
+find> 26: b is
+find> 3: yeah c vander
+24: yeah d
+28: brad yeah
+31: yeah
+find> Run stats ...
+Number of slots used: 25
+Max number of slots: 48
+Number of collisions: 25

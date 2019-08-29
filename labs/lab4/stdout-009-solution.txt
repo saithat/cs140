@@ -1,0 +1,41 @@
+find> 1: c a dunn this is zanden a brad adam hi josh b e paula adam clara plank adam zanden adam um hi josh
+3: this woo is is um c test thomas yeah c josh zanden woo clara gregor josh hi adam yeah
+4: dunn gregor c g paula dunn adam brad test a f gregor josh thomas is woo
+6: woo f vander um yeah short thomas brad vander gregor is dunn e
+10: gregor is
+find> 1: c a dunn this is zanden a brad adam hi josh b e paula adam clara plank adam zanden adam um hi josh
+7: plank paula g plank short vander brad a um yeah
+find> 1: c a dunn this is zanden a brad adam hi josh b e paula adam clara plank adam zanden adam um hi josh
+2: b thomas clara a brad adam dunn gregor b hi this test b clara thomas g g adam brad brad zanden d
+3: this woo is is um c test thomas yeah c josh zanden woo clara gregor josh hi adam yeah
+8: short paula zanden f woo b short zanden
+find> 1: c a dunn this is zanden a brad adam hi josh b e paula adam clara plank adam zanden adam um hi josh
+3: this woo is is um c test thomas yeah c josh zanden woo clara gregor josh hi adam yeah
+4: dunn gregor c g paula dunn adam brad test a f gregor josh thomas is woo
+find> 1: c a dunn this is zanden a brad adam hi josh b e paula adam clara plank adam zanden adam um hi josh
+3: this woo is is um c test thomas yeah c josh zanden woo clara gregor josh hi adam yeah
+4: dunn gregor c g paula dunn adam brad test a f gregor josh thomas is woo
+6: woo f vander um yeah short thomas brad vander gregor is dunn e
+10: gregor is
+find> 3: this woo is is um c test thomas yeah c josh zanden woo clara gregor josh hi adam yeah
+4: dunn gregor c g paula dunn adam brad test a f gregor josh thomas is woo
+6: woo f vander um yeah short thomas brad vander gregor is dunn e
+8: short paula zanden f woo b short zanden
+find> 1: c a dunn this is zanden a brad adam hi josh b e paula adam clara plank adam zanden adam um hi josh
+4: dunn gregor c g paula dunn adam brad test a f gregor josh thomas is woo
+7: plank paula g plank short vander brad a um yeah
+8: short paula zanden f woo b short zanden
+find> 3: this woo is is um c test thomas yeah c josh zanden woo clara gregor josh hi adam yeah
+4: dunn gregor c g paula dunn adam brad test a f gregor josh thomas is woo
+6: woo f vander um yeah short thomas brad vander gregor is dunn e
+8: short paula zanden f woo b short zanden
+find> 1: c a dunn this is zanden a brad adam hi josh b e paula adam clara plank adam zanden adam um hi josh
+2: b thomas clara a brad adam dunn gregor b hi this test b clara thomas g g adam brad brad zanden d
+3: this woo is is um c test thomas yeah c josh zanden woo clara gregor josh hi adam yeah
+4: dunn gregor c g paula dunn adam brad test a f gregor josh thomas is woo
+5: d g yeah clara dunn short brad thomas adam b this d e um
+find> 
+Run stats ...
+Number of slots used: 26
+Max number of slots:  48
+Number of collisions: 71

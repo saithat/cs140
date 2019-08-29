@@ -1,0 +1,61 @@
+find> 2: hi clara test c dunn zanden is um g plank
+3: plank josh test is f yeah zanden test zanden clara
+4: hi short adam brad plank dunn gregor gregor b a
+7: plank hi zanden vander gregor yeah
+14: plank 
+find> 1: test yeah dunn zanden test short yeah test yeah josh thomas is
+2: hi clara test c dunn zanden is um g plank
+4: hi short adam brad plank dunn gregor gregor b a
+6: vander paula yeah josh zanden clara dunn short
+find> 1: test yeah dunn zanden test short yeah test yeah josh thomas is
+4: hi short adam brad plank dunn gregor gregor b a
+6: vander paula yeah josh zanden clara dunn short
+find> 4: hi short adam brad plank dunn gregor gregor b a
+5: hi gregor thomas um adam a this is
+find> 1: test yeah dunn zanden test short yeah test yeah josh thomas is
+3: plank josh test is f yeah zanden test zanden clara
+6: vander paula yeah josh zanden clara dunn short
+7: plank hi zanden vander gregor yeah
+10: gregor yeah 
+find> 1: test yeah dunn zanden test short yeah test yeah josh thomas is
+2: hi clara test c dunn zanden is um g plank
+4: hi short adam brad plank dunn gregor gregor b a
+6: vander paula yeah josh zanden clara dunn short
+find> 4: hi short adam brad plank dunn gregor gregor b a
+find> 1: test yeah dunn zanden test short yeah test yeah josh thomas is
+3: plank josh test is f yeah zanden test zanden clara
+6: vander paula yeah josh zanden clara dunn short
+7: plank hi zanden vander gregor yeah
+10: gregor yeah 
+find> 6: vander paula yeah josh zanden clara dunn short
+9: b clara paula e f hi
+find> 5: hi gregor thomas um adam a this is
+8: hi a e b this a
+11: b this 
+13: this 
+find> 1: test yeah dunn zanden test short yeah test yeah josh thomas is
+5: hi gregor thomas um adam a this is
+17: thomas 
+find> 4: hi short adam brad plank dunn gregor gregor b a
+5: hi gregor thomas um adam a this is
+7: plank hi zanden vander gregor yeah
+10: gregor yeah 
+find> 6: vander paula yeah josh zanden clara dunn short
+7: plank hi zanden vander gregor yeah
+find> 4: hi short adam brad plank dunn gregor gregor b a
+5: hi gregor thomas um adam a this is
+8: hi a e b this a
+15: a 
+find> 2: hi clara test c dunn zanden is um g plank
+find> 1: test yeah dunn zanden test short yeah test yeah josh thomas is
+3: plank josh test is f yeah zanden test zanden clara
+6: vander paula yeah josh zanden clara dunn short
+16: josh 
+find> 2: hi clara test c dunn zanden is um g plank
+find> 1: test yeah dunn zanden test short yeah test yeah josh thomas is
+5: hi gregor thomas um adam a this is
+17: thomas 
+find> Run stats ...
+Number of slots used: 24
+Max number of slots: 48
+Number of collisions: 27

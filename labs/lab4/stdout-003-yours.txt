@@ -1,0 +1,9 @@
+find> 1: dunn paula clara gregor woo hi this
+2: yeah plank this f b f
+3: this dunn g woo e
+find> 6: short um
+find> 4: adam adam zanden g
+find> Run stats ...
+Number of slots used: 19
+Max number of slots: 23
+Number of collisions: 8

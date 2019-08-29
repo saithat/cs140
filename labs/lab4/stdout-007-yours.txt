@@ -1,0 +1,28 @@
+find> 2: plank this hi woo plank g test zanden b dunn this d brad f b is test thomas brad
+3: plank c dunn d gregor e gregor plank this josh brad f b vander vander paula c
+4: a dunn clara yeah is paula um f gregor gregor brad d vander
+find> 3: plank c dunn d gregor e gregor plank this josh brad f b vander vander paula c
+find> 1: short d test um plank plank um short c g adam thomas paula e woo d this woo yeah
+2: plank this hi woo plank g test zanden b dunn this d brad f b is test thomas brad
+3: plank c dunn d gregor e gregor plank this josh brad f b vander vander paula c
+4: a dunn clara yeah is paula um f gregor gregor brad d vander
+7: this e e woo brad is woo hi d woo 
+8: thomas d plank d dunn short paula 
+find> 1: short d test um plank plank um short c g adam thomas paula e woo d this woo yeah
+2: plank this hi woo plank g test zanden b dunn this d brad f b is test thomas brad
+5: is plank thomas paula a test plank yeah dunn thomas vander 
+6: brad um test thomas this a dunn um brad adam 
+8: thomas d plank d dunn short paula 
+9: adam a hi thomas woo 
+find> 2: plank this hi woo plank g test zanden b dunn this d brad f b is test thomas brad
+7: this e e woo brad is woo hi d woo 
+9: adam a hi thomas woo 
+find> 2: plank this hi woo plank g test zanden b dunn this d brad f b is test thomas brad
+3: plank c dunn d gregor e gregor plank this josh brad f b vander vander paula c
+4: a dunn clara yeah is paula um f gregor gregor brad d vander
+find> 1: short d test um plank plank um short c g adam thomas paula e woo d this woo yeah
+2: plank this hi woo plank g test zanden b dunn this d brad f b is test thomas brad
+find> Run stats ...
+Number of slots used: 26
+Max number of slots: 48
+Number of collisions: 61

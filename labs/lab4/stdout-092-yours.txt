@@ -1,0 +1,119 @@
+find> 2: yeah e test
+find> 2: yeah e test
+find> 1: um this um
+find> find> find> 19: plank
+find> find> 1: um this um
+10: um
+21: um
+find> 4: gregor gregor a
+6: gregor vander thomas
+find> 2: yeah e test
+14: test
+find> 3: g thomas short
+9: short
+find> 5: clara dunn is
+find> 5: clara dunn is
+22: is
+find> 2: yeah e test
+find> 4: gregor gregor a
+7: hi a
+find> find> 16: woo
+find> 3: g thomas short
+find> 1: um this um
+10: um
+21: um
+find> 4: gregor gregor a
+7: hi a
+find> find> 2: yeah e test
+find> find> 4: gregor gregor a
+7: hi a
+find> 15: brad
+find> 2: yeah e test
+find> 3: g thomas short
+9: short
+find> 2: yeah e test
+find> 7: hi a
+find> 1: um this um
+10: um
+21: um
+find> 1: um this um
+find> 6: gregor vander thomas
+find> 2: yeah e test
+find> 6: gregor vander thomas
+find> 3: g thomas short
+6: gregor vander thomas
+12: thomas
+17: thomas
+find> 20: adam
+find> 16: woo
+find> 5: clara dunn is
+find> 1: um this um
+find> 5: clara dunn is
+22: is
+find> 19: plank
+find> find> find> 2: yeah e test
+14: test
+find> find> 3: g thomas short
+9: short
+find> 8: d
+find> 4: gregor gregor a
+6: gregor vander thomas
+find> find> find> 2: yeah e test
+find> 4: gregor gregor a
+7: hi a
+find> 2: yeah e test
+find> 11: zanden
+13: zanden
+18: zanden
+23: zanden
+find> find> 7: hi a
+find> 19: plank
+find> 15: brad
+find> 11: zanden
+13: zanden
+18: zanden
+23: zanden
+find> 3: g thomas short
+9: short
+find> 2: yeah e test
+14: test
+find> 2: yeah e test
+find> 19: plank
+find> 5: clara dunn is
+find> 11: zanden
+13: zanden
+18: zanden
+23: zanden
+find> 3: g thomas short
+find> 5: clara dunn is
+find> 15: brad
+find> find> 7: hi a
+find> 2: yeah e test
+14: test
+find> 16: woo
+find> find> 5: clara dunn is
+find> 19: plank
+find> 5: clara dunn is
+find> 19: plank
+find> 8: d
+find> 7: hi a
+find> 3: g thomas short
+9: short
+find> 3: g thomas short
+6: gregor vander thomas
+12: thomas
+17: thomas
+find> 1: um this um
+find> find> 4: gregor gregor a
+7: hi a
+find> find> 3: g thomas short
+find> 5: clara dunn is
+find> find> 4: gregor gregor a
+7: hi a
+find> 2: yeah e test
+find> 20: adam
+find> 15: brad
+find> Run stats ...
+Number of slots used: 21
+Max number of slots: 23
+Number of collisions: 12

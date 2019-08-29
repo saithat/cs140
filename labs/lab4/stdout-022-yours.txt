@@ -1,0 +1,64 @@
+find> 1: d b c vander adam woo
+find> 1: d b c vander adam woo
+2: short is d short zanden 
+3: f short this dunn d 
+7: d is vander brad zanden 
+9: zanden d thomas clara 
+22: d um 
+26: d vander 
+find> 5: dunn yeah dunn hi c 
+find> 3: f short this dunn d 
+4: this dunn josh is plank 
+18: this yeah 
+find> 2: short is d short zanden 
+3: f short this dunn d 
+10: paula g short a 
+20: short c 
+find> 7: d is vander brad zanden 
+12: gregor brad yeah 
+find> 10: paula g short a 
+16: a e 
+find> 4: this dunn josh is plank 
+13: dunn plank yeah 
+find> 4: this dunn josh is plank 
+13: dunn plank yeah 
+find> 11: paula yeah test 
+14: vander test 
+19: test paula 
+21: test e 
+28: test 
+find> 2: short is d short zanden 
+3: f short this dunn d 
+10: paula g short a 
+20: short c 
+find> 1: d b c vander adam woo
+7: d is vander brad zanden 
+14: vander test 
+26: d vander 
+find> 9: zanden d thomas clara 
+find> 1: d b c vander adam woo
+5: dunn yeah dunn hi c 
+20: short c 
+find> 2: short is d short zanden 
+7: d is vander brad zanden 
+9: zanden d thomas clara 
+find> 1: d b c vander adam woo
+find> 4: this dunn josh is plank 
+8: e josh yeah dunn gregor 
+find> 4: this dunn josh is plank 
+8: e josh yeah dunn gregor 
+find> 10: paula g short a 
+16: a e 
+find> 10: paula g short a 
+16: a e 
+find> 6: g gregor dunn yeah is 
+10: paula g short a 
+17: g um 
+23: g g 
+find> 1: d b c vander adam woo
+5: dunn yeah dunn hi c 
+20: short c 
+find> Run stats ...
+Number of slots used: 26
+Max number of slots: 48
+Number of collisions: 22

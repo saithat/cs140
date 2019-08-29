@@ -1,0 +1,7 @@
+find> 2: hi um is c brad
+find> find> find> 1: woo c e brad thomas
+find> find> find> 
+Run stats ...
+Number of slots used: 19
+Max number of slots:  23
+Number of collisions: 6

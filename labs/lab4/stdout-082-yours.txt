@@ -1,0 +1,275 @@
+find> 22: this
+33: this
+40: this
+find> 2: e d
+4: e
+8: e
+9: e
+find> 18: plank
+35: plank
+find> 13: paula
+24: paula
+find> 43: test
+47: test
+find> 1: adam adam
+11: adam
+20: adam
+21: adam
+50: adam
+57: adam
+61: adam
+62: adam
+find> 5: um
+36: um
+find> 46: a
+63: a
+find> 6: g
+31: g
+48: g
+51: g
+53: g
+59: g
+65: g
+66: g
+68: g
+73: g
+find> 64: woo
+69: woo
+find> 19: gregor
+44: gregor
+find> 2: e d
+14: d
+49: d
+58: d
+67: d
+find> 17: vander
+32: vander
+find> 3: hi is
+12: hi
+29: hi
+71: hi
+find> 26: c
+37: c
+55: c
+60: c
+find> 46: a
+63: a
+find> 26: c
+37: c
+55: c
+60: c
+find> 46: a
+63: a
+find> 64: woo
+69: woo
+find> 64: woo
+69: woo
+find> 18: plank
+35: plank
+find> 1: adam adam
+11: adam
+20: adam
+21: adam
+50: adam
+57: adam
+61: adam
+62: adam
+find> 13: paula
+24: paula
+find> 43: test
+47: test
+find> 16: f
+30: f
+41: f
+find> 5: um
+36: um
+find> 16: f
+30: f
+41: f
+find> 3: hi is
+10: is
+25: is
+56: is
+75: is
+find> 1: adam adam
+11: adam
+20: adam
+21: adam
+50: adam
+57: adam
+61: adam
+62: adam
+find> 72: josh
+find> 46: a
+63: a
+find> 22: this
+33: this
+40: this
+find> 17: vander
+32: vander
+find> 23: dunn
+28: dunn
+39: dunn
+find> 46: a
+63: a
+find> find> 18: plank
+35: plank
+find> 26: c
+37: c
+55: c
+60: c
+find> 27: yeah
+find> 7: clara
+15: clara
+45: clara
+52: clara
+70: clara
+find> 13: paula
+24: paula
+find> 3: hi is
+10: is
+25: is
+56: is
+75: is
+find> 18: plank
+35: plank
+find> 23: dunn
+28: dunn
+39: dunn
+find> 23: dunn
+28: dunn
+39: dunn
+find> 46: a
+63: a
+find> 3: hi is
+10: is
+25: is
+56: is
+75: is
+find> 17: vander
+32: vander
+find> 17: vander
+32: vander
+find> 1: adam adam
+11: adam
+20: adam
+21: adam
+50: adam
+57: adam
+61: adam
+62: adam
+find> 7: clara
+15: clara
+45: clara
+52: clara
+70: clara
+find> 16: f
+30: f
+41: f
+find> 2: e d
+4: e
+8: e
+9: e
+find> 42: b
+76: b
+find> 64: woo
+69: woo
+find> 6: g
+31: g
+48: g
+51: g
+53: g
+59: g
+65: g
+66: g
+68: g
+73: g
+find> find> 3: hi is
+10: is
+25: is
+56: is
+75: is
+find> 3: hi is
+10: is
+25: is
+56: is
+75: is
+find> 16: f
+30: f
+41: f
+find> 34: short
+38: short
+54: short
+74: short
+find> 5: um
+36: um
+find> 3: hi is
+12: hi
+29: hi
+71: hi
+find> 2: e d
+4: e
+8: e
+9: e
+find> 22: this
+33: this
+40: this
+find> 7: clara
+15: clara
+45: clara
+52: clara
+70: clara
+find> 42: b
+76: b
+find> 13: paula
+24: paula
+find> 72: josh
+find> find> 2: e d
+4: e
+8: e
+9: e
+find> 3: hi is
+12: hi
+29: hi
+71: hi
+find> 1: adam adam
+11: adam
+20: adam
+21: adam
+50: adam
+57: adam
+61: adam
+62: adam
+find> 2: e d
+14: d
+49: d
+58: d
+67: d
+find> find> 72: josh
+find> 1: adam adam
+11: adam
+20: adam
+21: adam
+50: adam
+57: adam
+61: adam
+62: adam
+find> 13: paula
+24: paula
+find> 34: short
+38: short
+54: short
+74: short
+find> 2: e d
+14: d
+49: d
+58: d
+67: d
+find> 5: um
+36: um
+find> 64: woo
+69: woo
+find> Run stats ...
+Number of slots used: 23
+Max number of slots: 48
+Number of collisions: 25

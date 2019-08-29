@@ -1,0 +1,118 @@
+find> 1: woo um brad vander f test woo c zanden
+2: woo c clara dunn g woo josh test g
+3: thomas gregor um test um is f um
+6: d adam test zanden um josh
+find> 1: woo um brad vander f test woo c zanden
+9: thomas clara dunn c brad thomas
+13: adam d brad gregor g
+17: short paula vander adam brad
+find> 1: woo um brad vander f test woo c zanden
+5: paula zanden hi josh um clara d
+6: d adam test zanden um josh
+14: is b gregor thomas zanden
+16: josh zanden gregor yeah this
+20: woo clara zanden
+29: zanden 
+find> 12: is vander this this is
+15: gregor hi this c thomas
+16: josh zanden gregor yeah this
+find> 3: thomas gregor um test um is f um
+4: g is thomas josh um gregor a
+7: b vander hi a thomas d
+9: thomas clara dunn c brad thomas
+14: is b gregor thomas zanden
+15: gregor hi this c thomas
+26: thomas plank 
+find> 1: woo um brad vander f test woo c zanden
+9: thomas clara dunn c brad thomas
+13: adam d brad gregor g
+17: short paula vander adam brad
+find> 6: d adam test zanden um josh
+10: g adam g woo b
+13: adam d brad gregor g
+17: short paula vander adam brad
+22: adam hi b
+24: adam b 
+find> 3: thomas gregor um test um is f um
+4: g is thomas josh um gregor a
+8: yeah vander f gregor clara woo
+13: adam d brad gregor g
+14: is b gregor thomas zanden
+15: gregor hi this c thomas
+16: josh zanden gregor yeah this
+18: e g vander woo gregor
+find> 1: woo um brad vander f test woo c zanden
+9: thomas clara dunn c brad thomas
+13: adam d brad gregor g
+17: short paula vander adam brad
+find> 7: b vander hi a thomas d
+10: g adam g woo b
+14: is b gregor thomas zanden
+22: adam hi b
+24: adam b 
+find> 2: woo c clara dunn g woo josh test g
+9: thomas clara dunn c brad thomas
+25: clara dunn 
+find> 2: woo c clara dunn g woo josh test g
+9: thomas clara dunn c brad thomas
+25: clara dunn 
+find> 17: short paula vander adam brad
+23: short vander 
+find> 1: woo um brad vander f test woo c zanden
+2: woo c clara dunn g woo josh test g
+3: thomas gregor um test um is f um
+6: d adam test zanden um josh
+find> 2: woo c clara dunn g woo josh test g
+4: g is thomas josh um gregor a
+10: g adam g woo b
+13: adam d brad gregor g
+18: e g vander woo gregor
+find> 1: woo um brad vander f test woo c zanden
+7: b vander hi a thomas d
+8: yeah vander f gregor clara woo
+11: vander a um clara paula
+12: is vander this this is
+17: short paula vander adam brad
+18: e g vander woo gregor
+23: short vander 
+27: vander 
+find> 8: yeah vander f gregor clara woo
+16: josh zanden gregor yeah this
+19: plank plank yeah e
+find> 2: woo c clara dunn g woo josh test g
+9: thomas clara dunn c brad thomas
+25: clara dunn 
+find> 2: woo c clara dunn g woo josh test g
+4: g is thomas josh um gregor a
+5: paula zanden hi josh um clara d
+6: d adam test zanden um josh
+16: josh zanden gregor yeah this
+find> 17: short paula vander adam brad
+23: short vander 
+find> 2: woo c clara dunn g woo josh test g
+5: paula zanden hi josh um clara d
+8: yeah vander f gregor clara woo
+9: thomas clara dunn c brad thomas
+11: vander a um clara paula
+20: woo clara zanden
+21: um clara d
+25: clara dunn 
+find> 3: thomas gregor um test um is f um
+4: g is thomas josh um gregor a
+12: is vander this this is
+14: is b gregor thomas zanden
+find> 1: woo um brad vander f test woo c zanden
+5: paula zanden hi josh um clara d
+6: d adam test zanden um josh
+14: is b gregor thomas zanden
+16: josh zanden gregor yeah this
+20: woo clara zanden
+29: zanden 
+find> 1: woo um brad vander f test woo c zanden
+3: thomas gregor um test um is f um
+8: yeah vander f gregor clara woo
+find> 
+Run stats ...
+Number of slots used: 26
+Max number of slots:  48
+Number of collisions: 46

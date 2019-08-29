@@ -1,0 +1,5 @@
+find> find> find> find> find> find> find> find> find> find> find> find> 1: brad
+find> Run stats ...
+Number of slots used: 4
+Max number of slots: 11
+Number of collisions: 0

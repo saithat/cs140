@@ -1,0 +1,257 @@
+find> 62: clara
+67: clara
+71: clara
+find> 43: dunn
+find> 25: brad
+find> 27: woo
+37: woo
+64: woo
+find> 10: hi
+13: hi
+15: hi
+47: hi
+59: hi
+find> 5: paula
+9: paula
+find> 2: d
+72: d
+find> 24: zanden
+41: zanden
+53: zanden
+find> 2: d
+72: d
+find> 25: brad
+find> 4: yeah
+29: yeah
+30: yeah
+32: yeah
+54: yeah
+55: yeah
+57: yeah
+58: yeah
+find> 4: yeah
+29: yeah
+30: yeah
+32: yeah
+54: yeah
+55: yeah
+57: yeah
+58: yeah
+find> 25: brad
+find> 20: plank
+42: plank
+60: plank
+find> find> 25: brad
+find> 6: vander
+33: vander
+36: vander
+48: vander
+find> 35: a
+find> 4: yeah
+29: yeah
+30: yeah
+32: yeah
+54: yeah
+55: yeah
+57: yeah
+58: yeah
+find> 21: this
+find> 5: paula
+9: paula
+find> 62: clara
+67: clara
+71: clara
+find> 43: dunn
+find> 62: clara
+67: clara
+71: clara
+find> find> 11: b
+73: b
+find> 18: josh
+44: josh
+46: josh
+find> 24: zanden
+41: zanden
+53: zanden
+find> 43: dunn
+find> 38: is
+49: is
+70: is
+find> 11: b
+73: b
+find> 34: thomas
+51: thomas
+76: thomas
+find> 5: paula
+9: paula
+find> 6: vander
+33: vander
+36: vander
+48: vander
+find> 28: um
+45: um
+68: um
+find> 34: thomas
+51: thomas
+76: thomas
+find> 24: zanden
+41: zanden
+53: zanden
+find> 34: thomas
+51: thomas
+76: thomas
+find> 10: hi
+13: hi
+15: hi
+47: hi
+59: hi
+find> 3: c
+39: c
+56: c
+find> 62: clara
+67: clara
+71: clara
+find> 7: adam
+22: adam
+40: adam
+50: adam
+61: adam
+65: adam
+find> 43: dunn
+find> 5: paula
+9: paula
+find> 25: brad
+find> 7: adam
+22: adam
+40: adam
+50: adam
+61: adam
+65: adam
+find> 21: this
+find> 18: josh
+44: josh
+46: josh
+find> 27: woo
+37: woo
+64: woo
+find> 24: zanden
+41: zanden
+53: zanden
+find> 24: zanden
+41: zanden
+53: zanden
+find> 43: dunn
+find> 34: thomas
+51: thomas
+76: thomas
+find> 26: e
+75: e
+find> 20: plank
+42: plank
+60: plank
+find> 24: zanden
+41: zanden
+53: zanden
+find> 16: gregor
+17: gregor
+63: gregor
+find> 26: e
+75: e
+find> 4: yeah
+29: yeah
+30: yeah
+32: yeah
+54: yeah
+55: yeah
+57: yeah
+58: yeah
+find> 7: adam
+22: adam
+40: adam
+50: adam
+61: adam
+65: adam
+find> 24: zanden
+41: zanden
+53: zanden
+find> 2: d
+72: d
+find> 38: is
+49: is
+70: is
+find> 16: gregor
+17: gregor
+63: gregor
+find> 3: c
+39: c
+56: c
+find> 11: b
+73: b
+find> 18: josh
+44: josh
+46: josh
+find> find> 20: plank
+42: plank
+60: plank
+find> find> 6: vander
+33: vander
+36: vander
+48: vander
+find> 34: thomas
+51: thomas
+76: thomas
+find> 1: short
+8: short
+12: short
+14: short
+19: short
+31: short
+52: short
+66: short
+find> 34: thomas
+51: thomas
+76: thomas
+find> 62: clara
+67: clara
+71: clara
+find> 38: is
+49: is
+70: is
+find> 11: b
+73: b
+find> 25: brad
+find> 34: thomas
+51: thomas
+76: thomas
+find> 11: b
+73: b
+find> 6: vander
+33: vander
+36: vander
+48: vander
+find> 26: e
+75: e
+find> 6: vander
+33: vander
+36: vander
+48: vander
+find> 74: g
+find> 1: short
+8: short
+12: short
+14: short
+19: short
+31: short
+52: short
+66: short
+find> 7: adam
+22: adam
+40: adam
+50: adam
+61: adam
+65: adam
+find> 
+Run stats ...
+Number of slots used: 25
+Max number of slots:  48
+Number of collisions: 29
